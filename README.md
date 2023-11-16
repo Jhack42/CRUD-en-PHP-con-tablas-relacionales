@@ -35,6 +35,8 @@ Microsoft Windows [Versión 10.0.19045.3693]
 
 C:\xampp\htdocs\Nueva carpeta02>composer init
 ```
+
+
 <!-- HTML para una imagen con margen -->
 <img src="https://i.postimg.cc/MGrBWTj4/Code-0b6w-Li-GTDS.png" alt="Code-0b6w-Li-GTDS.png" style="margin: 20px; display: block; border-radius: 10px;">
 
@@ -45,15 +47,6 @@ C:\xampp\htdocs\Nueva carpeta02>composer init
 <img src="https://i.postimg.cc/nr6z5jgK/My-SQLWorkbench-Gg-LIUChznl.png" alt="My-SQLWorkbench-Gg-LIUChznl.png" style="margin: 20px; display: block; border-radius: 10px;">
 
 <img src="https://i.postimg.cc/GhXQVcmB/Whats-App-Image-2023-11-16-at-2-14-20-AM.jpg" alt="Whats-App-Image-2023-11-16-at-2-14-20-AM.jpg" style="margin: 20px; display: block; border-radius: 10px;">
-
-<div style="display: flex; justify-content: center;">
-    <div style="margin: 20px;">
-        <img src="https://i.postimg.cc/MGrBWTj4/Code-0b6w-Li-GTDS.png" alt="Code-0b6w-Li-GTDS.png" style="border-radius: 10px;">
-    </div>
-    <div style="margin: 20px;">
-        <img src="https://i.postimg.cc/RZphtYVJ/chrome-ytdy-CILjwq.png" alt="chrome-ytdy-CILjwq.png" style="border-radius: 10px;">
-    </div>
-</div>
 
 
 
