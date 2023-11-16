@@ -28,4 +28,14 @@ CREATE TABLE tabla (
     nombre VARCHAR(255) NOT NULL,
     descripcion TEXT
 );
+```
+```cmd
+Microsoft Windows [Versión 10.0.19045.3693]
+(c) Microsoft Corporation. Todos los derechos reservados.
 
+C:\xampp\htdocs\Nueva carpeta02>composer init
+```
+[![Code-0b6w-Li-GTDS.png](https://i.postimg.cc/MGrBWTj4/Code-0b6w-Li-GTDS.png)](https://postimg.cc/qtyqwpwX)
+[![chrome-ytdy-CILjwq.png](https://i.postimg.cc/RZphtYVJ/chrome-ytdy-CILjwq.png)](https://postimg.cc/QF5jG07j)
+[![chrome-r-LKtwd-RXm-N.png](https://i.postimg.cc/zvNG5Zp6/chrome-r-LKtwd-RXm-N.png)](https://postimg.cc/Kk92rW6D)
+[![My-SQLWorkbench-Gg-LIUChznl.png](https://i.postimg.cc/nr6z5jgK/My-SQLWorkbench-Gg-LIUChznl.png)](https://postimg.cc/vxtbxBQD)
