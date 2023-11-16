@@ -21,7 +21,7 @@ Considerar las siguientes funcionalidades:
 ```sql
 create database ecommerce;
 
-use ecommerce;
+USE ecommerce;
 
 CREATE TABLE tabla (
     id INT AUTO_INCREMENT PRIMARY KEY,
