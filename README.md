@@ -35,8 +35,25 @@ Microsoft Windows [Versión 10.0.19045.3693]
 
 C:\xampp\htdocs\Nueva carpeta02>composer init
 ```
-[![Code-0b6w-Li-GTDS.png](https://i.postimg.cc/MGrBWTj4/Code-0b6w-Li-GTDS.png)](https://postimg.cc/qtyqwpwX)
-[![chrome-ytdy-CILjwq.png](https://i.postimg.cc/RZphtYVJ/chrome-ytdy-CILjwq.png)](https://postimg.cc/QF5jG07j)
-[![chrome-r-LKtwd-RXm-N.png](https://i.postimg.cc/zvNG5Zp6/chrome-r-LKtwd-RXm-N.png)](https://postimg.cc/Kk92rW6D)
-[![My-SQLWorkbench-Gg-LIUChznl.png](https://i.postimg.cc/nr6z5jgK/My-SQLWorkbench-Gg-LIUChznl.png)](https://postimg.cc/vxtbxBQD)
-[![Whats-App-Image-2023-11-16-at-2-14-20-AM.jpg](https://i.postimg.cc/GhXQVcmB/Whats-App-Image-2023-11-16-at-2-14-20-AM.jpg)](https://postimg.cc/bs2k2fb8)
+<!-- HTML para una imagen con margen -->
+<img src="https://i.postimg.cc/MGrBWTj4/Code-0b6w-Li-GTDS.png" alt="Code-0b6w-Li-GTDS.png" style="margin: 20px; display: block; border-radius: 10px;">
+
+<img src="https://i.postimg.cc/RZphtYVJ/chrome-ytdy-CILjwq.png" alt="chrome-ytdy-CILjwq.png" style="margin: 20px; display: block; border-radius: 10px;">
+
+<img src="https://i.postimg.cc/zvNG5Zp6/chrome-r-LKtwd-RXm-N.png" alt="chrome-r-LKtwd-RXm-N.png" style="margin: 20px; display: block; border-radius: 10px;">
+
+<img src="https://i.postimg.cc/nr6z5jgK/My-SQLWorkbench-Gg-LIUChznl.png" alt="My-SQLWorkbench-Gg-LIUChznl.png" style="margin: 20px; display: block; border-radius: 10px;">
+
+<img src="https://i.postimg.cc/GhXQVcmB/Whats-App-Image-2023-11-16-at-2-14-20-AM.jpg" alt="Whats-App-Image-2023-11-16-at-2-14-20-AM.jpg" style="margin: 20px; display: block; border-radius: 10px;">
+
+<div style="display: flex; justify-content: center;">
+    <div style="margin: 20px;">
+        <img src="https://i.postimg.cc/MGrBWTj4/Code-0b6w-Li-GTDS.png" alt="Code-0b6w-Li-GTDS.png" style="border-radius: 10px;">
+    </div>
+    <div style="margin: 20px;">
+        <img src="https://i.postimg.cc/RZphtYVJ/chrome-ytdy-CILjwq.png" alt="chrome-ytdy-CILjwq.png" style="border-radius: 10px;">
+    </div>
+</div>
+
+
+
