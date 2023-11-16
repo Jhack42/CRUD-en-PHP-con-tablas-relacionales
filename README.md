@@ -35,7 +35,7 @@ Microsoft Windows [Versión 10.0.19045.3693]
 
 C:\xampp\htdocs\Nueva carpeta02>composer init
 ```
-```json
+```txt
 {
     "php.validate.executablePath": "C:/xampp/php/php.exe"
 }
