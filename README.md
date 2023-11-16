@@ -19,7 +19,7 @@ Considerar las siguientes funcionalidades:
 # Esquema de Base de Datos
 
 ```sql
-create database ecommerce;
+CREATE DATABASE ecommerce;
 
 USE ecommerce;
 
