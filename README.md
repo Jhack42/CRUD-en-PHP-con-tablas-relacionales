@@ -16,10 +16,16 @@ Considerar las siguientes funcionalidades:
 
 [![chrome-91817-MPWZ1.png](https://i.postimg.cc/tgb1qLRp/chrome-91817-MPWZ1.png)](https://postimg.cc/3kLr9fDc)
 
+# Esquema de Base de Datos
+
+```sql
+create database ecommerce;
+
 use ecommerce;
- 
+
 CREATE TABLE tabla (
     id INT AUTO_INCREMENT PRIMARY KEY,
     nombre VARCHAR(255) NOT NULL,
     descripcion TEXT
 );
+
