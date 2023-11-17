@@ -40,6 +40,9 @@ C:\xampp\htdocs\Nueva carpeta02>composer init
     "php.validate.executablePath": "C:/xampp/php/php.exe"
 }
 ```
+```txt
+http://localhost/phpmyadmin/
+```
 
 
 <!-- HTML para una imagen con margen -->
